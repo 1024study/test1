@@ -7,14 +7,11 @@ package com.study1024;
  **/
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("fdsafsadfdsafdsaf");
         System.out.println("Hello Git!!");
         System.out.println("Hello Git2!!");
         System.out.println("Hello Git3!!");
         System.out.println("Hello Git4!!----hot-fix分支修改");
         System.out.println("Hello Git4!!----master分支修改---演示冲突合并");
         System.out.println("Hello Git4!!----hot-fix分支修改---演示冲突合并");
-        System.out.println("Hello Git4!!----测试修改不同文件是否会冲突");
-        System.out.println("Hello Git4!!----测试修改不同文件是否会冲突111");
     }
 }
