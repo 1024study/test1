@@ -12,5 +12,6 @@ public class Hello {
         System.out.println("Hello Git3!!");
         System.out.println("Hello Git4!!----hot-fix分支修改");
         System.out.println("Hello Git4!!----master分支修改---演示冲突合并");
+        System.out.println("Hello Git4!!----hot-fix分支修改---演示冲突合并");
     }
 }
