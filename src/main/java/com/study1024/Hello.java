@@ -15,5 +15,6 @@ public class Hello {
         System.out.println("Hello Git4!!----hot-fix分支修改---演示冲突合并");
         System.out.println("GitHub修改");
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
